@@ -24,10 +24,10 @@ Ecommerce Consumer Behavior Analysis dataset sourced from Kaggle.
 
 ## Files Included
 - `customer-purchase-analysis-excel/data/customer_purchase_data.xlsx` — Excel file with analysis workflow
-- `visuals/customer_analysis_charts.png` — Summary of key charts
+- `customer-purchase-analysis-excel/visuals/customer_analysis_charts.png` — Summary of key charts
 
 ## Project Level
 Junior Data Analyst / Beginner
 
 ## Visuals
-See the `visuals/customer_analysis_charts.png` file for charts illustrating the analysis.
+See the `customer-purchase-analysis-excel/visuals/customer_analysis_charts.png` file for charts illustrating the analysis.
