@@ -23,7 +23,7 @@ Ecommerce Consumer Behavior Analysis dataset sourced from Kaggle.
 - Younger age groups show higher average spend per transaction
 
 ## Files Included
-- `customer-purchase-analysis-excel/data` — Excel file with analysis workflow
+- `customer-purchase-analysis-excel/data/customer_purchase_data.xlsx` — Excel file with analysis workflow
 - `visuals/customer_analysis_charts.png` — Summary of key charts
 
 ## Project Level
