@@ -22,5 +22,12 @@ Ecommerce Consumer Behavior Analysis dataset sourced from Kaggle.
 - Female customers generate slightly higher total spend overall
 - Younger age groups show higher average spend per transaction
 
+## Files Included
+- `data/customer_purchase_data.xlsx` — Excel file with analysis workflow
+- `visuals/customer_analysis_charts.png` — Summary of key charts
+
 ## Project Level
 Junior Data Analyst / Beginner
+
+## Visuals
+See the `visuals/customer_analysis_charts.png` file for charts illustrating the analysis.
